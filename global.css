@@ -1,0 +1,16 @@
+:root{
+    --accent-color: #198754;
+}
+
+.hero-section{
+    min-height: 85vh;
+    background-color: rgba(238, 255, 238, 0.865);
+}
+.hero-illustration{
+    width: 50%;
+}
+.marketting-beautifully{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: rgba(0, 171, 0, 0.747);
+}
